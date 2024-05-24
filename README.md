@@ -1,4 +1,4 @@
-# Engima
+# Enigma
 
 Enigma, our maze-solving appliction, is designed to tackle seemingly unsolvable mazes. It intelligently calculates its moves, determining when and how many times to rotate the maze by 90 degrees at specific points. Both the ball and maze movements are visualized, and upon reaching the destination, a graph is generated to display the chosen path.
 
