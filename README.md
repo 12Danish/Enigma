@@ -94,3 +94,9 @@ Or you can follow the setup instructions and have it run on your machine.
 This project gave me a firm undertsanding about graphs and their traversal using Breadth First Search. It sharpened our problem solving skills to identify solutions which might not be obvious.
 Moreover, it taught us to visualize our solutions, allowing us to present our algorithm and unique approach effectively.
 
+### Small Bugs
+
+- When a maze is generated it produces a small window please resize to full to see the complete maze
+- Sometimes the last or top rows of the maze exceed screen size and are not displayed. Try with some of the smaller mazes to have the full maze in view
+- In some windows the close window option causes the whole program to shut down. Please minimise windows instead of closing them.
+  
