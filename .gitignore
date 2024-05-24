@@ -7,8 +7,8 @@
 # BlueJ files
 *.ctxt
 
-.out/*
-.bin/*
+out/*
+bin/*
 .vscode/
 .idea/
 *.iml
