@@ -22,9 +22,43 @@ The program continues to establish new nodes in all possible configurations unti
 - Java Swing
 - Java AWT
 
+## Requirements
+
+- Java Development Kit (JDK) version "21" 2023-09-19 or later
+- OpenJDK Runtime Environment (build 21+35-2513)
+- OpenJDK 64-Bit Server VM (build 21+35-2513, mixed mode, sharing)
+    
 ## Setup Instructions
+- Pull the git code from the repository
+ 
+To run the Maze Solver program, follow these steps:
+
+- Navigate to the `src\Main\` directory in your terminal or command prompt:
+   ```bash
+   cd src\Main\
+
+   javac MazeSolverHomePage.java
+
+   java MazeSolverHomePage
+   ```
+ 
 
 ## Directory Structure
+- src
+  - Main:
+     - MazeSolverHomePage.java : The main file which should be run to run the project.
+     - ThemeSelectionPage.java : Contains code for the options screen.
+  - Algo:
+        Contains files necessary for the working of algorithm
+  - CustomMaze:
+                Contains files for custom maze functionality
+  - MazeUI:
+            Contains files to handle maze rotation and ball movement
+  - Tracker:
+            This handles graph logic
+  - Resources:
+              This contains necessary assets like images.
+  
 
 ## Interface
 
