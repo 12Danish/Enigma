@@ -82,7 +82,7 @@ For example, `1111` means there are walls on the North, West, South, and East si
 ![Create](https://github.com/12Danish/Engima/blob/main/assets/create-maze.jpg)
 ![Created-Maze](https://github.com/12Danish/Engima/blob/main/assets/maze-created.jpg)
 
-**Demo**
+## Demo
 In order to view the demo please check out this link:
 
 (https://www.linkedin.com/feed/update/urn:li:activity:7199501438249496577/)
