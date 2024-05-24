@@ -28,9 +28,11 @@ The program continues to establish new nodes in all possible configurations unti
 ![Options Screen](https://github.com/12Danish/Engima/blob/main/assets/Screenshot%202024-05-24%20133834.gif)
 
 **Sample Maze**
+
 ![Sample Maze](https://github.com/12Danish/Engima/blob/main/assets/example-maze.gif)
 
 **Sample Graph**
+
 ![Sample Graph](https://github.com/12Danish/Engima/blob/main/assets/graph-example.jpg)
 
 **Own Maze**
@@ -41,7 +43,7 @@ The program continues to establish new nodes in all possible configurations unti
 **Demo**
 In order to view the demo please check out this link:
 
-![linkin/post](https://www.linkedin.com/feed/update/urn:li:activity:7199501438249496577/)
+(https://www.linkedin.com/feed/update/urn:li:activity:7199501438249496577/)
 
 Or you can follow the setup instructions and have it run on your machine.
 
