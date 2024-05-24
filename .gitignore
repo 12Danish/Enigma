@@ -7,11 +7,12 @@
 # BlueJ files
 *.ctxt
 
-.out/
+.out/*
+.bin/*
 .vscode/
 .idea/
 *.iml
-.bin/
+
 
 
 # Mobile Tools for Java (J2ME)
