@@ -36,11 +36,16 @@ To run the Maze Solver program, follow these steps:
 - Navigate to the `src\Main\` directory in your terminal or command prompt:
    ```bash
    cd src\Main\
-
-   javac MazeSolverHomePage.java
-
-   java MazeSolverHomePage
    ```
+- Open MazeSolverHomePage.java:
+                                - VS code :
+                                           Right click and select run java.
+                                           ![run vs](https://github.com/12Danish/Enigma/blob/main/assets/run.jpg)
+                                - IntelliJ:
+                                           Select run from the top bar.
+                                           ![run intelli](https://github.com/12Danish/Enigma/blob/main/assets/run-intelli.jpg)
+                                       
+  
  
 
 ## Directory Structure
